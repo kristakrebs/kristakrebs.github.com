@@ -1579,13 +1579,13 @@
 		-ms-transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #49bf9d;
+		color: #15a3c4;
 		text-decoration: none;
 	}
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #49bf9d !important;
+			color: #15a3c4 !important;
 			text-decoration: none;
 		}
 
@@ -1792,7 +1792,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #49bf9d;
+			border-color: #15a3c4;
 		}
 
 	.select-wrapper {
@@ -1902,7 +1902,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color: #49bf9d;
+			border-color: #15a3c4;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2349,8 +2349,8 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #15a3c4;
+			color: #15a3c4 !important;
 		}
 
 		input[type="submit"]:active,
@@ -2358,8 +2358,8 @@
 		input[type="button"]:active,
 		.button:active {
 			background-color: rgba(73, 191, 157, 0.1);
-			border-color: #49bf9d;
-			color: #49bf9d !important;
+			border-color: #15a3c4;
+			color: #15a3c4 !important;
 		}
 
 		input[type="submit"].icon,
@@ -2404,8 +2404,8 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color: #49bf9d;
-			border-color: #49bf9d;
+			background-color: #15a3c4;
+			border-color: #15a3c4;
 			color: #ffffff !important;
 		}
 
@@ -2519,7 +2519,7 @@
 		}
 
 		#header h1 {
-			color: rgba(255, 255, 255, 0.5);
+			color: rgba(255, 255, 255, 0.6);
 			font-size: 1.35em;
 			line-height: 1.75em;
 			margin: 0;
